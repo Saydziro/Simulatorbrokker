@@ -20,7 +20,6 @@ MVP:
 
 Файловая структура:
 
-Файловая структура:
 Simulatorbrokker-app/
 │
 ├── .gitignore
